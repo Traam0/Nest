@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Nest"
         mc:Ignorable="d"
-        Title="Nest" Height="450" Width="800" Icon="/logo.png">
+        Title="Nest" Height="450" Width="800" >
     <Grid>
         <Button Name="Mainbtn" Click="Button_Click" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top">
             <Button.BorderThickness>0.5</Button.BorderThickness>
